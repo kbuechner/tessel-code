@@ -1,0 +1,19 @@
+{
+  "name": "tessel-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camera-vc0706": "^0.1.8",
+    "express": "^4.13.4",
+    "image-to-ascii": "^3.0.2",
+    "lwip": "0.0.8",
+    "tessel-av": "^0.6.0"
+  }
+}
